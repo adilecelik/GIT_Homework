@@ -12,3 +12,4 @@ print("List with random numbers:", my_list)
 # Item i: Sorting the list in ascending order
 my_list.sort()
 print("Sorted list:", my_list)
+print("Sorting algorithm improved in develop branch!")
