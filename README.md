@@ -34,12 +34,10 @@ In this section, we simulated a real-world collaboration scenario where two peop
 ## 4. Screenshots & Evidence
 
 ### Git Blame (Task L)
-![Git Blame Screenshot](<img width="1920" height="1080" alt="Ekran görüntüsü 2026-04-23 142652" src="https://github.com/user-attachments/assets/259bdf39-0a36-4df3-aabb-54d47cdd7af0" />
-)
+![Git Blame Screenshot](<img width="1920" height="1080" alt="Ekran görüntüsü 2026-04-23 142652" src="https://github.com/user-attachments/assets/0ccd7ab5-fec6-48ee-b42a-edb926e3ea3c" />)
 
 ### Project History Graph (Task X & Y)
-![Git Graph Screenshot](<img width="1920" height="1080" alt="Ekran görüntüsü 2026-04-23 143036" src="https://github.com/user-attachments/assets/d0562f06-90f8-4e98-a2fc-4cd9e409dfe3" />
-)
+![Git Graph Screenshot](<img width="1920" height="1080" alt="Ekran görüntüsü 2026-04-23 143023" src="https://github.com/user-attachments/assets/0bf939c3-e050-4ad6-92c1-d48c3c1422f5" />)
 
 ### Conflict Process & Resolution (Task Z)
 
@@ -47,5 +45,4 @@ In the screenshot below, the entire process is documented:
 1. **The Error:** The red `[rejected]` message shows the conflict when trying to push.
 2. **The Resolution:** After performing a `git pull` and manual fix, the `Conflict solved` commit and successful push are visible at the bottom.
 
-![Conflict Process and Resolution](<img width="1920" height="1080" alt="Ekran görüntüsü 2026-04-23 143309" src="https://github.com/user-attachments/assets/58a61fce-2bee-4a8c-a412-c8e55d965184" />
-)
+![Conflict Process and Resolution](<img width="1920" height="1080" alt="Ekran görüntüsü 2026-04-23 143309" src="https://github.com/user-attachments/assets/e0020554-9a1c-47db-a6b1-6b28c8060c9a" />)
