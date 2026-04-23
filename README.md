@@ -25,7 +25,7 @@ This project demonstrates basic and advanced Git operations, including repositor
 
 In this section, we simulated a real-world collaboration scenario where two people edit the same line of code simultaneously.
 
-1. **The Conflict:** I pushed a change to line 20 in `homework.cpp`. My collaborator tried to push a different change to the same line without pulling my update first.
+1. **The Conflict:** I pushed a change to line in `homework.cpp`. My collaborator tried to push a different change to the same line without pulling my update first.
 2. **The Error:** Git rejected the collaborator's push with a `[rejected]` error.
 3. **The Resolution:** We performed a `git pull`, resolved the conflict by choosing **"Accept Both Changes"**, and pushed the final "peaceful" version.
 
