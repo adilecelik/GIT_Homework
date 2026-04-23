@@ -44,5 +44,6 @@ In this section, we simulated a real-world collaboration scenario where two peop
 In the screenshot below, the entire process is documented:
 1. **The Error:** The red `[rejected]` message shows the conflict when trying to push.
 2. **The Resolution:** After performing a `git pull` and manual fix, the `Conflict solved` commit and successful push are visible at the bottom.
-![Conflict Resolution](https://github.com/user-attachments/assets/7f73765b-369e-46ad-b86a-e3b598f8a293)
+![Conflict Resolution](https://github.com/user-attachments/assets/55ffa5b8-6982-49ff-925f-366bf2f7d0cc)
+
 
